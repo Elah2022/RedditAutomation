@@ -41,4 +41,4 @@ python republicar.py
 - NLTK
 - Requests
 
-Prueba Pull Shark 
+Prueba 
