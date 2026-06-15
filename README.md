@@ -41,3 +41,4 @@ python republicar.py
 - NLTK
 - Requests
 
+Manuela Riascos Hurtado.
